@@ -2,7 +2,7 @@
 
 - 😀 I'm Loïc Moreaux
 - 🌍 I live in Libourne (near Bordeaux 🍷)
-- 💻 I’m web developer
+- 💻 I’m developer
 - 🏍️ I’m biker
 - 🎮 I'm gamer
 - ⚔️ I’m cosplayer
@@ -12,7 +12,8 @@
 - My Hard skills :
 ```
 HTML, CSS, Sass
-JavaScript, Vue.js, Node.js
+JavaScript, Node.js, Vue.js
+Java, Spring
 MySQL, MongoDB
 VSCode, Git, GitHub
 ```
