@@ -15,5 +15,6 @@ HTML, CSS, Sass
 JavaScript, Node.js, Vue.js
 Java, Spring
 MySQL, MongoDB
-VSCode, Git, GitHub
+VSCode, Eclipse
+Git, GitHub
 ```
